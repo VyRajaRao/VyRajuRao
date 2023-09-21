@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning engineering CSE-1st year
 - 💞️ I’m looking to collaborate on any CS related project
 - 📫 How to reach me ... You can message me at my social accounts:
-     Instagram- https://instagram.com/vy_raju_rao?igshid=OGQ5ZDc2ODk2ZA==
+Instagram-https://instagram.com/vy_raju_rao?igshid=OGQ5ZDc2ODk2ZA==
      Twitter- https://x.com/VyRaja?t=p4mNYpQhecvo6rLE13uQyQ&s=09
 
 <!---
