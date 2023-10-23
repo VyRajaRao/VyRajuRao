@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VyRajuRao
+- 👋 Hi, I’m @VyRajaRao
 - 👀 I’m interested in contributing or making projects in which are fascinating and useful
 - 🌱 I’m currently learning engineering CSE-1st year
 - 💞️ I’m looking to collaborate on any CS related project
