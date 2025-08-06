@@ -2,8 +2,7 @@
 - 👀 I’m interested in contributing or making projects in which are fascinating and useful
 - 🌱 I’m currently learning engineering in CSE
 - 💞️ I’m looking to collaborate on any CS related project
-- 📫 How to reach me ... You can message me at my social accounts:
-<br>
+- 📫 How to reach me ... You can message me at my social accounts:<br>
 Instagram-https://instagram.com/vy_raju_rao
 <br>
 Twitter- https://x.com/VyRaja
